@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aarushi Saki, currently a computer science student at Vellore Institute of Technology(VIT). I am an aspiring coder, learning my way around the industry🙃. 
+I am Aarushi Saki, currently a computer science student at Vellore Institute of Technology(VIT). I am an aspiring developer, learning my way around the industry🙃. 
 🌱 I’m currently learning Flask, C++, MySQL and Java<br><br>📝 I regularly write articles on https://medium.com/@aarushi.saki13<br><br>📫 How to reach me aarushi.saki13@gmail.com
 
 
